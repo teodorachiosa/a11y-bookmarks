@@ -7,3 +7,7 @@
 
 ## Social media
 - [Don't fake bold and italic text with Unicode](https://axbom.com/dont-fake-bold-and-italic-text-with-unicode/)
+
+## Auditing / Evaluation Methodology
+- 🎥 [Audit Sites for Accessibility (with Hidde de Vries) | Some Antics](https://m.youtube.com/watch?v=lXZ2o69PDho#)
+- [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/evaluation/define-scope)
