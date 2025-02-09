@@ -11,3 +11,6 @@
 ## Auditing / Evaluation Methodology
 - 🎥 [Audit Sites for Accessibility (with Hidde de Vries) | Some Antics](https://m.youtube.com/watch?v=lXZ2o69PDho#)
 - [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/evaluation/define-scope)
+
+# A11y and AI
+- 🎥  [Using generative AI to improve digital accessibility efficiency, featuring Copilot, Whisper & Claude](https://m.youtube.com/watch?v=ItqEyCEqCGg&t=3s&pp=2AEDkAIB)
