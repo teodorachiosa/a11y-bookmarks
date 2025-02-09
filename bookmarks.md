@@ -14,3 +14,4 @@
 
 # A11y and AI
 - 🎥  [Using generative AI to improve digital accessibility efficiency, featuring Copilot, Whisper & Claude](https://m.youtube.com/watch?v=ItqEyCEqCGg&t=3s&pp=2AEDkAIB)
+- 🎥 [AI and Accessibility: the Good, the Bad, and the Bollocks / Léonie Watson](https://m.youtube.com/watch?v=Ij-GLix2QUQ&pp=ygUkdGhlIGdvb2QgdGhlIGJhZCBhbmQgdGhlIGJvbGxvY2tzIGFp)
