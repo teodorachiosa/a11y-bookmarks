@@ -12,6 +12,9 @@
 - [Don't fake bold and italic text with Unicode](https://axbom.com/dont-fake-bold-and-italic-text-with-unicode/)
 - [Image alt-text, description & transcription generator](https://teachonline.asu.edu/image-accessibility-generator/)
 
+## Legal
+[Accessibility Statement Model (EU)](https://eur-lex.europa.eu/eli/dec_impl/2018/1523/oj)
+
 ## Auditing / Evaluation Methodology
 - 🎥 [Audit Sites for Accessibility (with Hidde de Vries) | Some Antics](https://m.youtube.com/watch?v=lXZ2o69PDho#)
 - [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/evaluation/define-scope)
