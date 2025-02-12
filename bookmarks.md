@@ -13,6 +13,7 @@
 - [Image alt-text, description & transcription generator](https://teachonline.asu.edu/image-accessibility-generator/)
 
 ## Legal
+- [Best Practices for EU Web Accessibility Compliance Monitoring] (https://www.a11y-collective.com/blog/eu-web-accessibility-directive/)
 - [Accessibility Statement Model (EU)](https://eur-lex.europa.eu/eli/dec_impl/2018/1523/oj)
 
 ## Auditing / Evaluation Methodology
