@@ -4,6 +4,7 @@
 - [Certification - International Association of Accessibility Professionals](https://www.accessibilityassociation.org/s/certification)
 - [CPACC Quiz - Free Practice Tests for IAAP Certification](https://a11yconsultant.com/)
 - [WCAG Challenge Arena](https://assistivetechhub.com/)
+- [Accessibility Pro Certified: To Be or Not To Be](https://www.24a11y.com/2018/accessibility-pro-certified/)
 
 ## Assistive Technology 
 - [Accessibility Support](https://a11ysupport.io/)
