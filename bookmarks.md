@@ -16,7 +16,7 @@
 ## Legal
 - [Best Practices for EU Web Accessibility Compliance Monitoring](https://www.a11y-collective.com/blog/eu-web-accessibility-directive/)
 - [Accessibility Statement Model (EU)](https://eur-lex.europa.eu/eli/dec_impl/2018/1523/oj)
-[European Union Accessibility Statement (Example)](https://european-union.europa.eu/accessibility-statement_en)
+- [European Union Accessibility Statement (Example)](https://european-union.europa.eu/accessibility-statement_en)
 
 ## Auditing / Evaluation Methodology
 - 🎥 [Audit Sites for Accessibility (with Hidde de Vries) | Some Antics](https://m.youtube.com/watch?v=lXZ2o69PDho#)
