@@ -12,6 +12,9 @@
 ## 😍 Social media
 - [Don't fake bold and italic text with Unicode](https://axbom.com/dont-fake-bold-and-italic-text-with-unicode/)
 - [Image alt-text, description & transcription generator](https://teachonline.asu.edu/image-accessibility-generator/)
+- [Vox Product Accessibility Guidelines](https://accessibility.voxmedia.com/#editorial)
+- [Colour Contrast Checker - Chrome Web Store](https://chromewebstore.google.com/detail/colour-contrast-checker/nmmjeclfkgjdomacpcflgdkgpphpmnfe)
+- [Accessibility check for text color on background image](https://www.brandwood.com/a11y/)
 
 ## ⚖ Legal
 - [Best Practices for EU Web Accessibility Compliance Monitoring](https://www.a11y-collective.com/blog/eu-web-accessibility-directive/)
