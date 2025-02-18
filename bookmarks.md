@@ -9,7 +9,7 @@
 ## ⌨ Assistive Technology 
 - [Accessibility Support](https://a11ysupport.io/)
 
-## ☺ Social media
+## 😍 Social media
 - [Don't fake bold and italic text with Unicode](https://axbom.com/dont-fake-bold-and-italic-text-with-unicode/)
 - [Image alt-text, description & transcription generator](https://teachonline.asu.edu/image-accessibility-generator/)
 
