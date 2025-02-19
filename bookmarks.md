@@ -15,6 +15,7 @@
 - [Vox Product Accessibility Guidelines](https://accessibility.voxmedia.com/#editorial)
 - [Colour Contrast Checker - Chrome Web Store](https://chromewebstore.google.com/detail/colour-contrast-checker/nmmjeclfkgjdomacpcflgdkgpphpmnfe)
 - [Accessibility check for text color on background image](https://www.brandwood.com/a11y/)
+- [Thoughts on embedding alternative text metadata into images](https://ericwbailey.website/published/thoughts-on-embedding-alternative-text-metadata-into-images/)
 
 ## ⚖ Legal
 - [Best Practices for EU Web Accessibility Compliance Monitoring](https://www.a11y-collective.com/blog/eu-web-accessibility-directive/)
