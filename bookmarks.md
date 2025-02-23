@@ -17,10 +17,11 @@
 - [Accessibility check for text color on background image](https://www.brandwood.com/a11y/)
 - [Thoughts on embedding alternative text metadata into images](https://ericwbailey.website/published/thoughts-on-embedding-alternative-text-metadata-into-images/)
 
-## ⚖ Legal
+## ⚖ Law & Standards
 - [Best Practices for EU Web Accessibility Compliance Monitoring](https://www.a11y-collective.com/blog/eu-web-accessibility-directive/)
 - [Accessibility Statement Model (EU)](https://eur-lex.europa.eu/eli/dec_impl/2018/1523/oj)
 - [European Union Accessibility Statement (Example)](https://european-union.europa.eu/accessibility-statement_en)
+- [WCAG is part of EN 301 549 but EN 301 549 goes way beyond WCAG](https://cerovac.com/a11y/2023/06/wcag-is-part-of-en-301-549-but-en-301-549-goes-way-beyond-wcag/)
 
 ## 👮‍♂️ Auditing / Evaluation Methodology
 - 🎥 [Audit Sites for Accessibility (with Hidde de Vries) | Some Antics](https://m.youtube.com/watch?v=lXZ2o69PDho#)
