@@ -26,6 +26,7 @@
 - [European Union Accessibility Statement (Example)](https://european-union.europa.eu/accessibility-statement_en)
 - [WCAG is part of EN 301 549 but EN 301 549 goes way beyond WCAG](https://cerovac.com/a11y/2023/06/wcag-is-part-of-en-301-549-but-en-301-549-goes-way-beyond-wcag/)
 - [Member States' bodies in charge of monitoring the Web Accessibility Directive](https://digital-strategy.ec.europa.eu/en/policies/web-accessibility-monitoring#ecl-inpage-kmxmodo5)
+- [Breaking Down EN 301 549: The European Standard for Digital Accessibility](https://m.youtube.com/watch?v=MQUVi9EHwGA)
 
 ## 👮‍♂️ Auditing / Evaluation Methodology
 - 🎥 [Audit Sites for Accessibility (with Hidde de Vries) | Some Antics](https://m.youtube.com/watch?v=lXZ2o69PDho#)
