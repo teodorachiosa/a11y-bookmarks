@@ -8,6 +8,7 @@
 
 ## ⌨ Assistive Technology 
 - [Accessibility Support](https://a11ysupport.io/)
+- [Your Accessibility Claims Are Wrong, Unless](https://adrianroselli.com/2022/11/your-accessibility-claims-are-wrong-unless.html#SRs)
 
 ## Design / Development / Testing tools
 - [Indigotree Contrast Checker](https://contrast-checker.indigotree.co.uk/)
