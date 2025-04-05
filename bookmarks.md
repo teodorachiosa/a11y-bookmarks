@@ -21,6 +21,9 @@
 - [Accessibility check for text color on background image](https://www.brandwood.com/a11y/)
 - [Thoughts on embedding alternative text metadata into images](https://ericwbailey.website/published/thoughts-on-embedding-alternative-text-metadata-into-images/)
 
+## Document Accessibility
+- [Accessibility videos by California Department of Social Services](https://m.youtube.com/watch?v=1tgP82MvXzk&list=PLdcwkELts-sz8H1-6gijjfC8l8Br8w3sf&index=1&pp=iAQB)
+
 ## ⚖ Law & Standards
 - [Best Practices for EU Web Accessibility Compliance Monitoring](https://www.a11y-collective.com/blog/eu-web-accessibility-directive/)
 - [Accessibility Statement Model (EU)](https://eur-lex.europa.eu/eli/dec_impl/2018/1523/oj)
