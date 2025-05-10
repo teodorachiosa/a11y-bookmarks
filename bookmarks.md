@@ -5,6 +5,7 @@
 - [CPACC Quiz - Free Practice Tests for IAAP Certification](https://a11yconsultant.com/)
 - [WCAG Challenge Arena](https://assistivetechhub.com/)
 - [Accessibility Pro Certified: To Be or Not To Be](https://www.24a11y.com/2018/accessibility-pro-certified/)
+- [Trivia11y by Sparkbox](https://trivia11y.sparkbox.com/)
 
 ## ⌨ Assistive Technology 
 - [Accessibility Support](https://a11ysupport.io/)
