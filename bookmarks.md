@@ -42,3 +42,5 @@
 - 🎥  [Using generative AI to improve digital accessibility efficiency, featuring Copilot, Whisper & Claude](https://m.youtube.com/watch?v=ItqEyCEqCGg&t=3s&pp=2AEDkAIB)
 - 🎥 [AI and Accessibility: the Good, the Bad, and the Bollocks / Léonie Watson](https://m.youtube.com/watch?v=Ij-GLix2QUQ&pp=ygUkdGhlIGdvb2QgdGhlIGJhZCBhbmQgdGhlIGJvbGxvY2tzIGFp)
 - [Putting AI to the (Accessibility) Test](https://www.tpgi.com/putting-ai-to-the-accessibility-test/)
+- [European Accessibility Act - NotebookLM](https://notebooklm.google.com/notebook/9a0d65e8-5766-4c59-a181-71ced7db77d8)
+- [ChatGPT - Web Accessibility Guide](https://chatgpt.com/g/g-US9qvZUeb-web-accessibility-guide/c/68fb6fa7-3be0-832a-88ef-79fc62a63f56)
