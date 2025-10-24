@@ -24,6 +24,7 @@
 
 ## Document Accessibility
 - [Accessibility videos by California Department of Social Services](https://m.youtube.com/watch?v=1tgP82MvXzk&list=PLdcwkELts-sz8H1-6gijjfC8l8Br8w3sf&index=1&pp=iAQB)
+- [Evaluating PDFs for Accessibility | Digital Accessibility Services](https://das.osu.edu/getting-started/evaluating-digital-content-accessibility/evaluating-pdfs-accessibility)
 
 ## ⚖ Law & Standards
 - [Best Practices for EU Web Accessibility Compliance Monitoring](https://www.a11y-collective.com/blog/eu-web-accessibility-directive/)
