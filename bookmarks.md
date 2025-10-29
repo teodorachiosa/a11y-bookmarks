@@ -1,5 +1,9 @@
 # A11y Bookmarks
 
+## WAI Translations
+
+- [WCAG 2 Translations | Web Accessibility Initiative (WAI) | W3C](https://www.w3.org/WAI/standards-guidelines/wcag/translations/#wcag-22)
+
 ## 🎖 Certifications & Quizzes
 - [Certification - International Association of Accessibility Professionals](https://www.accessibilityassociation.org/s/certification)
 - [CPACC Quiz - Free Practice Tests for IAAP Certification](https://a11yconsultant.com/)
