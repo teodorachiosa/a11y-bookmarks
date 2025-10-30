@@ -48,3 +48,4 @@
 - [Putting AI to the (Accessibility) Test](https://www.tpgi.com/putting-ai-to-the-accessibility-test/)
 - [European Accessibility Act - NotebookLM](https://notebooklm.google.com/notebook/9a0d65e8-5766-4c59-a181-71ced7db77d8)
 - [ChatGPT - Web Accessibility Guide](https://chatgpt.com/g/g-US9qvZUeb-web-accessibility-guide/c/68fb6fa7-3be0-832a-88ef-79fc62a63f56)
+- [AIMAC Accessibility Leaderboard](https://aimac.ai/?view=wcag22aa_all)
