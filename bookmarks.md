@@ -52,3 +52,6 @@
 
 ## Single Page Applications (SPAs)
 - [Ensuring Accessibility in Single Page Applications: A Comprehensive Guide](https://afixt.com/ensuring-accessibility-in-single-page-applications-a-comprehensive-guide/)
+
+## Fonts / Typefaces
+- [A guide to understanding what makes a typeface accessible](https://scribe.rip/the-readability-group/a-guide-to-understanding-what-makes-a-typeface-accessible-and-how-to-make-informed-decisions-9e5c0b9040a0)
